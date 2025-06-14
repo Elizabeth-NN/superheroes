@@ -164,3 +164,5 @@ Flask-SQLAlchemy
 Flask-Migrate
 
 ## License
+
+MIT license
